@@ -35,9 +35,12 @@ form {
   width: 15em;
   margin-bottom: 2em;
 
-  p {
+  p, li {
     color: red;
+    list-style: none;
   }
+
+
 }
 
 input {
